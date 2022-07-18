@@ -15,3 +15,5 @@ The game will continue to allow you to place pieces until either one of the play
 ![Screen Shot 2022-07-18 at 12 27 54 PM](https://user-images.githubusercontent.com/54960376/179610221-69bf0960-8453-4ad6-8d9d-cc6a282c55ab.png)
 ![Screen Shot 2022-07-18 at 1 23 43 PM](https://user-images.githubusercontent.com/54960376/179611044-58e81166-8505-460f-b39f-a4979fc1a28e.png)
 ![Screen Shot 2022-07-18 at 1 22 11 PM](https://user-images.githubusercontent.com/54960376/179611124-f9ca03c7-ecca-4f98-9f79-d4e118e046f7.png)
+
+Thank you for viewing my repository!
